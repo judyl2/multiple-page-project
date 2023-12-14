@@ -1,3 +1,15 @@
 body {
 	background: beige;
+	text-align: center;
+}
+a {
+	padding: 5px;
+}
+
+.croissant-image {
+	text-align: center;
+	max-width: 500px;
+	margin: 50px;
+
+	border-radius: 10px;
 }
