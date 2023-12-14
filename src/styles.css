@@ -4,6 +4,15 @@ body {
 }
 a {
 	padding: 5px;
+	color: brown;
+}
+a:hover {
+	color: orange;
+}
+p {
+	margin: 10px;
+	padding: 10px;
+	line-height: 1.5;
 }
 
 .croissant-image {
